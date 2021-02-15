@@ -17,19 +17,25 @@ The gameshark codes are inside Commands/OcarinaOfTime.
 ## Current State
 As of now, it works with simple commands to give items, and can enable some funny codes like getting a heart gets you killed.
 
+## How to use
+* First create your bot and get your twitch api key and fill the ChatBot.config file with your data.
+* Now run ChatBot.py.
+* To make it work, download bizhawk emulator, run OOT game on it and open the injector.lua in the script injection section in cheats, and check autoreload. 
+
 ## TO-DO
 ### Clean redundant / unsused files.
 When I finally get back to working on this this will be the first thing to work on...
 
 ### User system
-1.- A point system for chat users, so people can only use commands using accumulated points.
-2.- Bans, VIP status.
+* [ ] A point system for chat users, so people can only use commands using accumulated points.
+* [ ] Bans, VIP status.
 
 ### Command Manager
-1.- UI that allows you to quickly create and modify command tables.
+* [ ] UI that allows you to quickly create and modify command tables.
 
 ### Save Manager
-1.- Allow the app to store the last status before close up.
+* [ ] Allow the app to store the last status before close up.
+
 
 
 
