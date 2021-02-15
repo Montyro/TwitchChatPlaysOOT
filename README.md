@@ -14,7 +14,7 @@ The emulator is listening the Lua file for modifications. This LUA file contains
 
 The gameshark codes are inside Commands/OcarinaOfTime.
 
-# Current State
+## Current State
 As of now, it works with simple commands to give items, and can enable some funny codes like getting a heart gets you killed.
 
 ## TO-DO
