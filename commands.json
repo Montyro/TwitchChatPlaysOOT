@@ -1,0 +1,13 @@
+{
+  "GiveFairyOcarina" :{ "code":"8011A64B 0007","cost":0},
+  "GiveHookShot" : { "code":"8011A64D 000A","cost":0},
+  "GiveLongShot" : { "code":"8011A64D 000B","cost":0}, 
+  "GiveBoomerang" : { "code":"8011A650 000E","cost":0},
+  "GiveLensOfTruth" : { "code":"8011A651 000F","cost":0},
+  "GiveBeans" : { "code":"8011A652 0010","cost":0},
+  "NeonVision" : {"code":"800E44A8 0001","cost":0},
+  "HeartsKillYou" : {"code":"80072142 0001","cost":0},
+  "UnlimitedRupees" :{"code":"8133F1DE 03E7","cost":0},
+  "InfiniteMagic" : {"code": "8011A60A 0001", "cost":0},
+  "LotsOfHearts" : {"code":"8111A5FE 03F0", "cost":0}
+}

@@ -1,0 +1,12 @@
+CommandName,Cost,GameSharkCode,IsParametric,Value, Enabled
+"GiveFairyOcarina",0,"8011A64B 0007",0,0
+"GiveHookShot",0,"8011A64D 000A",0,0,
+"GiveLongShot",0,"8011A64D 000B",0,0 
+"GiveBoomerang",0,"8011A650 000E",0,0
+"GiveLensOfTruth",0,"8011A651 000F",0,0
+"GiveBeans",0,"8011A652 0010",0,0
+"NeonVision",0,"800E44A8 0001",0,0
+"HeartsKillYou",0,"code":"80072142 0001",0,0
+"UnlimitedRupees",0,"8133F1DE 03E7",0,0
+"InfiniteMagic",0,"8011A60A 0001",0,0
+"LotsOfHearts",0,"8111A5FE 03F0",0,0

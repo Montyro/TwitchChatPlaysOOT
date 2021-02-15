@@ -1,0 +1,13 @@
+CommandName	Cost	GameSharkCode	IsParametric	Value	 Enabled 
+GiveFairyOcarina	0	8011A64B 0007	0	0	0
+GiveHookShot	0	8011A64D 000A	0	0	0
+GiveLongShot	0	8011A64D 000B	0	0	0
+GiveBoomerang	0	8011A650 000E	0	0	0
+GiveLensOfTruth	0	8011A651 000F	0	0	0
+GiveBeans	0	8011A652 0010	0	0	0
+HeartsKillYou	0	80072142 0001	0	0	2
+InfiniteMagic	0	8011A60A 0001	0	0	2
+Bottle1	0	8011A656 00xx	2	BOTTLE_ITEMS	0
+Bottle2	0	8011A657 00xx	2	BOTTLE_ITEMS	0
+Bottle3	0	8011A658 00xx	2	BOTTLE_ITEMS	0
+Bottle4	0	8011A659 00xx	2	BOTTLE_ITEMS	0
